@@ -41,6 +41,7 @@ gulp.task('bs', function() {
             baseDir: "./"
         },
         online : false,
+        notify : false,
         ui : false,
 		files : ['*.html','*.css']
     });
