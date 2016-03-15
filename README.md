@@ -1,2 +1,2 @@
-# Test Environment
-Test environment with nodejs, gulp, and browsersync.
+# Brilliant Binder Spines
+Made with love, php, and gulp
