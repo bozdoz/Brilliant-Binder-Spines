@@ -9,6 +9,7 @@ error_reporting(-1);
 <head>
 	<meta charset="UTF-8" />
         <link rel="stylesheet" href="./css/main.css" />
+        <link rel="icon" href="/favicon.ico">
 	<title>Brilliant Binder Spines</title>
 </head>
 
