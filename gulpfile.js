@@ -37,13 +37,11 @@ gulp.task('browserify', function() {
 
 gulp.task('bs', function() {
     return browserSync.init({
-        server: {
-            baseDir: "./"
-        },
         online : false,
         notify : false,
+        proxy : 'localhost/bbs/',
         ui : false,
-		files : ['*.html','*.css']
+		files : ['*.html','*.php', '*.css']
     });
 });
 
