@@ -49,12 +49,12 @@ h3, .h3, h4, .h4 {
 #header {
 	h1 {
 		text-shadow:rgba(0,0,0,0.3) 1px 1px 0px;
-		font-size:48px;
+		font-size:4em;
 		padding-bottom:0;
 	}
 	h2 {
 		color:#777;
-		font-size:26px;
+		font-size:2em;
 		padding-top:0;
 		margin-bottom:1.5em;
 		margin-left:3.5em;
@@ -119,6 +119,7 @@ a {
 	body {
 		margin-right:0;
 		margin-left: 0;
+		font-size:18px;
 	}
 	.binder-spine-graphic {
 		height: 75vh;
